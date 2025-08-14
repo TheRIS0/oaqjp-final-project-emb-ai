@@ -1,5 +1,6 @@
 from EmotionDetection.emotion_detection import emotion_detector
 
+# Testovacie prípady: (veta, očakávaná dominantná emócia)
 tests = [
     ("I am glad this happened", "joy"),
     ("I am really mad about this", "anger"),
